@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vendigo24
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, C#
+- 🌱 I’m currently learning Python, R, C++, C#
 
 
 <!---
